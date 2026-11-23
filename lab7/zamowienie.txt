@@ -1,0 +1,3 @@
+Produkt: monitor, Cena: 500, Ilość: 3
+Produkt: klawiatura, Cena: 100, Ilość: 1
+Wartość zamówienia: 1600
