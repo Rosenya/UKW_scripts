@@ -1,0 +1,4 @@
+Python jest prosty.
+Python jest szybki.
+Python jest popularny.
+To dobry jêzyk.

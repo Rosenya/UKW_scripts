@@ -1,0 +1,4 @@
+Liczby wieksze niz 50: [78, 56, 89, 67, 90, 55, 66, 77, 88, 99, 100, 51, 62, 73, 84, 95]
+Minimum: 5
+Maksimum: 100
+Srednia: 53.1

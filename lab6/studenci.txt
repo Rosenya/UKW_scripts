@@ -1,0 +1,10 @@
+Anna,5
+Jan,3
+Maria,4
+Piotr,2
+Ola,5
+Tomek,4
+Karol,3
+Ewa,5
+Adam,2
+Natalia,4

@@ -1,0 +1,10 @@
+Laptop,2700.0
+Mysz,45.0
+Klawiatura,135.0
+Monitor,720.0
+Drukarka,540.0
+Tablet,1080.0
+S³uchawki,180.0
+Telefon,2250.0
+Kamera,810.0
+Router,162.0

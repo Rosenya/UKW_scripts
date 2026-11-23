@@ -1,0 +1,8 @@
+python: 4
+jest: 4
+prosty: 1
+szybki: 1
+programowanie: 1
+w: 1
+przyjemne: 1
+popularny: 1

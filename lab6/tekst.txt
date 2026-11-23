@@ -1,0 +1,4 @@
+Python jest prosty.
+Python jest szybki.
+Programowanie w Python jest przyjemne.
+Python jest popularny.

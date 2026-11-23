@@ -1,0 +1,10 @@
+Laptop,3000
+Mysz,50
+Klawiatura,150
+Monitor,800
+Drukarka,600
+Tablet,1200
+S³uchawki,200
+Telefon,2500
+Kamera,900
+Router,180

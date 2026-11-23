@@ -1,0 +1,6 @@
+Operacje na plikach pozwalaja: 
+zapisywac dane, 
+odczytywac dane, 
+przechowywac wyniki programow, 
+pracowac na duzych zbiorach danych. 
+Najczesciej uzywane typy plikow to pliki tekstowe .txt i dane tabelaryczne .csv. Jest to bardzo wazne narzedzie.

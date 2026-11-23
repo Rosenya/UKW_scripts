@@ -1,0 +1,8 @@
+Srednia ocen: 3.7
+Najlepsi studenci:
+Anna: 5
+Maria: 4
+Ola: 5
+Tomek: 4
+Ewa: 5
+Natalia: 4
